@@ -1,1 +1,1 @@
-Simple image downloader to 4chan boards
+# Simple image downloader to 4chan boards
